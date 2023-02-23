@@ -2,7 +2,7 @@ package ru.astondevs.taskone;
 
 import java.util.Scanner;
 
-public class Arrays {
+public class ArraysTask {
 
     public void arrayReversing() {
         Scanner sc = new Scanner(System.in);
